@@ -1,0 +1,10 @@
+Flask
+mysql-connector-python
+werkzeug
+itsdangerous
+PyPDF2
+docx2txt
+pdfkit
+pyotp
+scikit-learn
+gunicorn
